@@ -19,7 +19,10 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/la-barbe/1.jpg",
+      "/images/businesses/la-barbe/2.jpg"
+    ]
   },
   {
     "id": "reigate-2",
@@ -41,7 +44,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/tony-tobin-the-dining-room/1.jpg"
+    ]
   },
   {
     "id": "reigate-3",
@@ -63,7 +68,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-everyman-cinema-restaurant/1.jpg"
+    ]
   },
   {
     "id": "reigate-4",
@@ -85,7 +92,10 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/chez-vous/1.jpg",
+      "/images/businesses/chez-vous/2.jpg"
+    ]
   },
   {
     "id": "reigate-5",
@@ -107,7 +117,10 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-pilgrim/1.jpg",
+      "/images/businesses/the-pilgrim/2.jpg"
+    ]
   },
   {
     "id": "reigate-6",
@@ -129,7 +142,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/hare-hounds/1.jpg"
+    ]
   },
   {
     "id": "reigate-7",
@@ -151,7 +166,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-kitchen/1.jpg"
+    ]
   },
   {
     "id": "reigate-8",
@@ -173,7 +190,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/caracoli/1.jpg"
+    ]
   },
   {
     "id": "reigate-9",
@@ -195,7 +214,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/bean-brew/1.jpg"
+    ]
   },
   {
     "id": "reigate-10",
@@ -217,7 +238,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-yew-tree/1.jpg"
+    ]
   },
   {
     "id": "reigate-11",
@@ -239,7 +262,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-nutley-hall/1.jpg"
+    ]
   },
   {
     "id": "reigate-12",
@@ -261,7 +286,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-bell/1.jpg"
+    ]
   },
   {
     "id": "reigate-13",
@@ -283,7 +310,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-home-cottage/1.jpg"
+    ]
   },
   {
     "id": "reigate-14",
@@ -305,7 +334,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/curchods/1.jpg"
+    ]
   },
   {
     "id": "reigate-15",
@@ -327,7 +358,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/hamptons/1.jpg"
+    ]
   },
   {
     "id": "reigate-16",
@@ -349,7 +382,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/cubitt-west/1.jpg"
+    ]
   },
   {
     "id": "reigate-17",
@@ -371,7 +406,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/drivers-norris/1.jpg"
+    ]
   },
   {
     "id": "reigate-18",
@@ -393,7 +430,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/toni-guy/1.jpg"
+    ]
   },
   {
     "id": "reigate-19",
@@ -415,7 +454,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/head-office/1.jpg"
+    ]
   },
   {
     "id": "reigate-20",
@@ -437,7 +478,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-cutting-room/1.jpg"
+    ]
   },
   {
     "id": "reigate-21",
@@ -459,7 +502,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/aspect-plumbing-heating/1.jpg"
+    ]
   },
   {
     "id": "reigate-22",
@@ -481,7 +526,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/redhill-plumbing-services/1.jpg"
+    ]
   },
   {
     "id": "reigate-23",
@@ -503,7 +550,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/surrey-gas-plumbing/1.jpg"
+    ]
   },
   {
     "id": "reigate-24",
@@ -525,7 +574,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/sparks-electrical/1.jpg"
+    ]
   },
   {
     "id": "reigate-25",
@@ -547,7 +598,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/redhill-electrical-services/1.jpg"
+    ]
   },
   {
     "id": "reigate-26",
@@ -569,7 +622,10 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/nuffield-health-reigate/1.jpg",
+      "/images/businesses/nuffield-health-reigate/2.jpg"
+    ]
   },
   {
     "id": "reigate-27",
@@ -591,7 +647,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/puregym-redhill/1.jpg"
+    ]
   },
   {
     "id": "reigate-28",
@@ -613,7 +671,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/david-lloyd-reigate/1.jpg"
+    ]
   },
   {
     "id": "reigate-29",
@@ -635,7 +695,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/reigate-dental-centre/1.jpg"
+    ]
   },
   {
     "id": "reigate-30",
@@ -657,7 +719,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/bupa-dental-care-redhill/1.jpg"
+    ]
   },
   {
     "id": "reigate-31",
@@ -679,7 +743,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/reigate-motors/1.jpg"
+    ]
   },
   {
     "id": "reigate-32",
@@ -701,7 +767,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/halfords-autocentre-redhill/1.jpg"
+    ]
   },
   {
     "id": "reigate-33",
@@ -723,7 +791,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-six-bells/1.jpg"
+    ]
   },
   {
     "id": "reigate-34",
@@ -745,7 +815,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/horley-tandoori/1.jpg"
+    ]
   },
   {
     "id": "reigate-35",
@@ -767,7 +839,9 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/the-stephan-langton-inn/1.jpg"
+    ]
   },
   {
     "id": "reigate-36",
@@ -789,6 +863,8 @@
     "created_at": "2026-03-05T19:20:42.525Z",
     "updated_at": "2026-03-05T19:20:42.525Z",
     "google_place_id": "",
-    "images": []
+    "images": [
+      "/images/businesses/2-riverside/1.jpg"
+    ]
   }
 ]
