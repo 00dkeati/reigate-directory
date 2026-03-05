@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reigate",
+    "name": "Reigate",
+    "slug": "reigate",
+    "description": "Historic market town in Surrey"
+  },
+  {
+    "id": "redhill",
+    "name": "Redhill",
+    "slug": "redhill",
+    "description": "Town centre with excellent transport links"
+  },
+  {
+    "id": "horley",
+    "name": "Horley",
+    "slug": "horley",
+    "description": "Close to Gatwick Airport"
+  },
+  {
+    "id": "dorking",
+    "name": "Dorking",
+    "slug": "dorking",
+    "description": "Market town in the Surrey Hills"
+  },
+  {
+    "id": "merstham",
+    "name": "Merstham",
+    "slug": "merstham",
+    "description": "Village north of Redhill"
+  },
+  {
+    "id": "south-park",
+    "name": "South Park",
+    "slug": "south-park",
+    "description": "Residential area south of Reigate"
+  }
+]

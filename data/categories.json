@@ -1,0 +1,62 @@
+[
+  {
+    "id": "restaurants",
+    "name": "Restaurants",
+    "slug": "restaurants",
+    "description": "Dining out in Reigate"
+  },
+  {
+    "id": "cafes",
+    "name": "Cafes",
+    "slug": "cafes",
+    "description": "Coffee shops & cafes"
+  },
+  {
+    "id": "pubs",
+    "name": "Pubs",
+    "slug": "pubs",
+    "description": "Local pubs & bars"
+  },
+  {
+    "id": "plumbers",
+    "name": "Plumbers",
+    "slug": "plumbers",
+    "description": "Plumbing services"
+  },
+  {
+    "id": "electricians",
+    "name": "Electricians",
+    "slug": "electricians",
+    "description": "Electrical services"
+  },
+  {
+    "id": "hairdressers",
+    "name": "Hairdressers",
+    "slug": "hairdressers",
+    "description": "Hair salons & barbers"
+  },
+  {
+    "id": "estate-agents",
+    "name": "Estate Agents",
+    "slug": "estate-agents",
+    "description": "Property sales & lettings"
+  },
+  {
+    "id": "gyms",
+    "name": "Gyms & Fitness",
+    "slug": "gyms",
+    "description": "Fitness centres & gyms"
+  },
+  {
+    "id": "dentists",
+    "name": "Dentists",
+    "slug": "dentists",
+    "description": "Dental practices"
+  },
+  {
+    "id": "garages",
+    "name": "Garages",
+    "slug": "garages",
+    "description": "Car repairs & MOTs"
+  }
+]
